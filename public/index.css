@@ -1,0 +1,15 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+/* Custom utilities to hide scrollbars */
+body::-webkit-scrollbar {
+    /* display: none;  */
+    background-color: red;
+
+}
+
+/* body {
+    scrollbar-width: none; 
+    -ms-overflow-style: none; 
+} */
