@@ -1,2 +1,2 @@
 # ecommerce_mern
-MERN | 
+MERN 
